@@ -1,4 +1,4 @@
-# GCD of Two Numbers
+# GCD of Two Numbers I
 
 ## Problem
 Given two integers `n1` and `n2`, find their Greatest Common Divisor (GCD).
